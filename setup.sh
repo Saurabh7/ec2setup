@@ -1,6 +1,6 @@
 curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
 
-sudo apt-get install unzip
+sudo apt-get install unzip htop
 sudo apt-get install python-pip
 pip install kaggle
 
