@@ -2,7 +2,7 @@ curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
 
 sudo apt-get install unzip htop
 sudo apt-get install python-pip
-pip install kaggle
+sudo pip install kaggle
 
 sudo add-apt-repository \
    "deb [arch=amd64] https://download.docker.com/linux/ubuntu \
